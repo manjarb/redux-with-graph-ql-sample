@@ -1,0 +1,4 @@
+export const UPDATE_CATEGORY = 'UPDATE_CATEGORY'
+
+export const UPDATE_ERROR = 'UPDATE_ERROR'
+export const RESET_ERROR = 'RESET_ERROR'
